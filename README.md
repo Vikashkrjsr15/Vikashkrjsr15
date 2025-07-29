@@ -30,8 +30,8 @@
 ---
 
 ### **🔥 Featured Projects**
+[![My_Portfolio-Website](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkrjsr15&repo=My_Portfolio&theme=tokyonight)](https://vikashkrjsr15.github.io/My_Portfolio/) 
 [![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkrjsr15&repo=react-vite-weather-app&theme=tokyonight)](https://github.com/Vikashkrjsr15/react-vite-weather-app)
-[![Coaching-Website](https://github-readme-stats.vercel.app/api/pin/?username=Vikashkrjsr15&repo=My_Portfolio&theme=tokyonight)](https://vikashkrjsr15.github.io/My_Portfolio/)  
 
 🔗 **Explore more repositories at** [GitHub Profile](https://github.com/Vikashkrjsr15?tab=repositories)
 
