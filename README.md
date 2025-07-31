@@ -66,6 +66,7 @@
 ---
 
 ### **📫 Connect with Me**
+[![Portfolio](https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=githubpages&logoColor=white)](https://vikashkrjsr15.github.io/My_Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikashjsr15)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikashkrjsr15@gmail.com)
 <!--[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)-->
