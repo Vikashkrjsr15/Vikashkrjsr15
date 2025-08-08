@@ -22,7 +22,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Vikashkrjsr15&show_icons=true&theme=tokyonight" />
 </td>
 <td>
-<img src="https://streak-stats.demolab.com?user=Vikashkrjsr15&theme=tokyonight" alt="GitHub Streak" />
+<!-- <img src="https://streak-stats.demolab.com?user=Vikashkrjsr15&theme=tokyonight" alt="GitHub Streak" />-->
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vikashkrjsr15&theme=dark" alt="GitHub Streak" /></a>
 
 <!--   [![GitHub Streak](https://streak-stats.demolab.com?user=Vikashkrjsr15&theme=)](https://git.io/streak-stats) -->
 
