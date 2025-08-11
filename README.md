@@ -24,7 +24,7 @@
 <td>
 <!-- <img src="https://streak-stats.demolab.com?user=Vikashkrjsr15&theme=tokyonight" alt="GitHub Streak" />-->
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vikashkrjsr15&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vikashkrjsr15&theme=tokyonight" alt="GitHub Streak" /></a>
 
 <!--   [![GitHub Streak](https://streak-stats.demolab.com?user=Vikashkrjsr15&theme=)](https://git.io/streak-stats) -->
 
